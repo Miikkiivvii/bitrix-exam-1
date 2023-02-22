@@ -1,0 +1,33 @@
+/.idea
+/.vscode
+/.vagrant
+*.log
+*.txt
+*.restore
+.DS_Store
+Thumbs.db
+/cgi-bin/
+
+# РёРіРЅРѕСЂРёСЂСѓРµРј С„Р°Р№Р»С‹ nodejs
+node_modules
+vendor
+
+# РёРіРЅРѕСЂРёСЂСѓРµРј С„Р°Р№Р»С‹ Рё РїР°РїРєРё Р±РёС‚СЂРёРєСЃ
+storage.php
+/bitrix/*
+/desktop_app/*
+/pub/*
+
+# РёРіРЅРѕСЂРёСЂСѓРµРј Р·Р°РіСЂСѓР¶РµРЅРЅС‹Рµ С„Р°Р№Р»С‹
+/upload/
+
+# РёРіРЅРѕСЂРёСЂСѓРµРј РґСЂСѓРіРёРµ С„Р°Р№Р»С‹
+google*.html
+yandex*.html
+cmsmagazine*.*
+
+# РёРіРЅРѕСЂРёСЂСѓРµРј С„Р°Р№Р»С‹ seo
+sitemap-*
+sitemap.xml
+sitemap.php
+robots.txt
