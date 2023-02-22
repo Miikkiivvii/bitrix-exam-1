@@ -4,7 +4,7 @@ $aMenuLinks = Array(
 		"Компания", 
 		"company/", 
 		Array(), 
-		Array("DESCRIPTION"=>"это текст для пункта \"Компания\""), 
+		Array("DESCRIPTION"=>"это текст для пункта \"Компания\"", "CLASS_STYLE"=>"color-red"), 
 		"" 
 	),
 	Array(
